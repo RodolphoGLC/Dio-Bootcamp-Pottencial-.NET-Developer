@@ -1,0 +1,15 @@
+C:\Projetos\Dio-Bootcamp-Pottencial-.NET-Developer\bin\Debug\net6.0\Dio-Bootcamp-Pottencial-.NET-Developer.exe
+C:\Projetos\Dio-Bootcamp-Pottencial-.NET-Developer\bin\Debug\net6.0\Dio-Bootcamp-Pottencial-.NET-Developer.deps.json
+C:\Projetos\Dio-Bootcamp-Pottencial-.NET-Developer\bin\Debug\net6.0\Dio-Bootcamp-Pottencial-.NET-Developer.runtimeconfig.json
+C:\Projetos\Dio-Bootcamp-Pottencial-.NET-Developer\bin\Debug\net6.0\Dio-Bootcamp-Pottencial-.NET-Developer.dll
+C:\Projetos\Dio-Bootcamp-Pottencial-.NET-Developer\bin\Debug\net6.0\Dio-Bootcamp-Pottencial-.NET-Developer.pdb
+C:\Projetos\Dio-Bootcamp-Pottencial-.NET-Developer\obj\Debug\net6.0\Dio-Bootcamp-Pottencial-.NET-Developer.csproj.AssemblyReference.cache
+C:\Projetos\Dio-Bootcamp-Pottencial-.NET-Developer\obj\Debug\net6.0\Dio-Bootcamp-Pottencial-.NET-Developer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Dio-Bootcamp-Pottencial-.NET-Developer\obj\Debug\net6.0\Dio-Bootcamp-Pottencial-.NET-Developer.AssemblyInfoInputs.cache
+C:\Projetos\Dio-Bootcamp-Pottencial-.NET-Developer\obj\Debug\net6.0\Dio-Bootcamp-Pottencial-.NET-Developer.AssemblyInfo.cs
+C:\Projetos\Dio-Bootcamp-Pottencial-.NET-Developer\obj\Debug\net6.0\Dio-Bootcamp-Pottencial-.NET-Developer.csproj.CoreCompileInputs.cache
+C:\Projetos\Dio-Bootcamp-Pottencial-.NET-Developer\obj\Debug\net6.0\Dio-Bootcamp-Pottencial-.NET-Developer.dll
+C:\Projetos\Dio-Bootcamp-Pottencial-.NET-Developer\obj\Debug\net6.0\refint\Dio-Bootcamp-Pottencial-.NET-Developer.dll
+C:\Projetos\Dio-Bootcamp-Pottencial-.NET-Developer\obj\Debug\net6.0\Dio-Bootcamp-Pottencial-.NET-Developer.pdb
+C:\Projetos\Dio-Bootcamp-Pottencial-.NET-Developer\obj\Debug\net6.0\Dio-Bootcamp-Pottencial-.NET-Developer.genruntimeconfig.cache
+C:\Projetos\Dio-Bootcamp-Pottencial-.NET-Developer\obj\Debug\net6.0\ref\Dio-Bootcamp-Pottencial-.NET-Developer.dll
