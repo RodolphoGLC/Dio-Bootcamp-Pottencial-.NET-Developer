@@ -1,13 +1,45 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-
 using Dio_Bootcamp_Pottencial_.NET_Developer.Models;
 
 // ------------------------------------------------------------------------------------------------------------
 
-//Amanhã começa aqui
+//Amanhã comece aqui, mantenha o padrão.
+
+// ------------------------------------------------------------------------------------------------------------
+
+//Operadore condicionais: Exxemplo checagem de valores, de verdadeiro e falso e frase
+
+// int quantidadeEmEstoque = 10;
+// int quantidadeDeVenda = 25;
+// bool possivelVenda = quantidadeEmEstoque >= quantidadeDeVenda;
+
+// Console.WriteLine($"Quantidade em estoque: {quantidadeEmEstoque}.");
+// Console.WriteLine($"Quantidade de venda: {quantidadeDeVenda}.");
+// Console.WriteLine($"A venda é possivel de ser realizada? {quantidadeEmEstoque >= quantidadeDeVenda}");
+
+// if (possivelVenda)
+// {
+//     Console.WriteLine("Venda realizada");
+// }
+// else
+// {
+//     Console.WriteLine("Desculpe, porém não temos essa quantidade em estoque.");
+// }
+
+// ------------------------------------------------------------------------------------------------------------
+
+//Operadores condicionais: exemplo vendas
+
+// int quantidadeEmEstoque = 10;
+// int quantidadeDeVenda = 25;
+
+// if(quantidadeEmEstoque >= quantidadeDeVenda)
+// {
+//     Console.WriteLine("Venda realizada.");
+// }
+// else 
+// {
+//     Console.WriteLine("Desculpe, porém não temos essa quantidade em estoque.");
+// }
 
 // ------------------------------------------------------------------------------------------------------------
 
