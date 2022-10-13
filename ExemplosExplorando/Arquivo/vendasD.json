@@ -1,0 +1,14 @@
+[
+  {
+    "Id": 1,
+    "Nome_Produto": "Material de escritório",
+    "Preco": 25.0,
+    "DataVenda": "2022-10-11T11:00:29.3995438-03:00"
+  },
+  {
+    "Id": 2,
+    "Nome_Produto": "Material de laboratório",
+    "Preco": 40.0,
+    "DataVenda": "2022-10-11T11:00:29.3995438-03:00"
+  }
+]
