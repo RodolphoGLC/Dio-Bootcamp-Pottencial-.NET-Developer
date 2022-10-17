@@ -1,0 +1,15 @@
+C:\DIO Potenciall\Smartphone\bin\Debug\net6.0\DesafioPOO.exe
+C:\DIO Potenciall\Smartphone\bin\Debug\net6.0\DesafioPOO.deps.json
+C:\DIO Potenciall\Smartphone\bin\Debug\net6.0\DesafioPOO.runtimeconfig.json
+C:\DIO Potenciall\Smartphone\bin\Debug\net6.0\DesafioPOO.dll
+C:\DIO Potenciall\Smartphone\bin\Debug\net6.0\DesafioPOO.pdb
+C:\DIO Potenciall\Smartphone\obj\Debug\net6.0\DesafioPOO.csproj.AssemblyReference.cache
+C:\DIO Potenciall\Smartphone\obj\Debug\net6.0\DesafioPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\DIO Potenciall\Smartphone\obj\Debug\net6.0\DesafioPOO.AssemblyInfoInputs.cache
+C:\DIO Potenciall\Smartphone\obj\Debug\net6.0\DesafioPOO.AssemblyInfo.cs
+C:\DIO Potenciall\Smartphone\obj\Debug\net6.0\DesafioPOO.csproj.CoreCompileInputs.cache
+C:\DIO Potenciall\Smartphone\obj\Debug\net6.0\DesafioPOO.dll
+C:\DIO Potenciall\Smartphone\obj\Debug\net6.0\refint\DesafioPOO.dll
+C:\DIO Potenciall\Smartphone\obj\Debug\net6.0\DesafioPOO.pdb
+C:\DIO Potenciall\Smartphone\obj\Debug\net6.0\DesafioPOO.genruntimeconfig.cache
+C:\DIO Potenciall\Smartphone\obj\Debug\net6.0\ref\DesafioPOO.dll
