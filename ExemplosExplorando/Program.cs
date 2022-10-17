@@ -127,26 +127,27 @@
 
 //Serialização na prática - usado na Classe "Vendas" - Simples
 
-// using ExemplosExplorando.Models;
-// using Newtonsoft.Json;
+using ExemplosExplorando.Models;
+using Newtonsoft.Json;
 
-// DateTime dataAtual = DateTime.Now; //Cria a variavel da data atual
+DateTime dataAtual = DateTime.Now; //Cria a variavel da data atual
 
-// List<Vendas> listaVendas = new List<Vendas>(); //Criando uma lista para armazenar as vendas
+List<Vendas> listaVendas = new List<Vendas>(); //Criando uma lista para armazenar as vendas
 
-// Vendas v1 = new Vendas(1, "Material de escritório", 25.0M, dataAtual); //Criando uma venda
-// Vendas v2 = new Vendas(2, "Material de laboratório", 40.0M, dataAtual); //Criando uma venda
+Vendas v1 = new Vendas(1, "Material de escritório", 25.0M, dataAtual); //Criando uma venda
+Vendas v2 = new Vendas(2, "Material de laboratório", 40.0M, dataAtual); //Criando uma venda
+Vendas v3 = new Vendas(3, "Material de limpeza", 10.0M, dataAtual); //Criando uma venda
 
-// listaVendas.Add(v1); //Adicionando a venda a lista
-// listaVendas.Add(v2); //Adicionando a venda a lista
+listaVendas.Add(v1); //Adicionando a venda a lista
+listaVendas.Add(v2); //Adicionando a venda a lista
+listaVendas.Add(v3); //Adicionando a venda a lista
 
+string serializado = JsonConvert.SerializeObject(listaVendas, Formatting.Indented); //Transformando para Json em 1 linha {ID,Produto,Preço}
+//string serializado = JsonConvert.SerializeObject(v1, Formatting.Indented); //Terá quebra de linha entre as variáveis
 
-// string serializado = JsonConvert.SerializeObject(listaVendas, Formatting.Indented); //Transformando para Json em 1 linha {ID,Produto,Preço}
-// //string serializado = JsonConvert.SerializeObject(v1, Formatting.Indented); //Terá quebra de linha entre as variáveis
+File.WriteAllText("Arquivo/vendas.json", serializado); //Armazenou os dados no arquivo .json
 
-// File.WriteAllText("Arquivo/vendas.json", serializado); //Armazenou os dados no arquivo .json
-
-// Console.WriteLine(serializado); //Escreverá o serializado
+Console.WriteLine(serializado); //Escreverá o serializado
 
 // --------------------------------------------------------------------------------------------------
 
