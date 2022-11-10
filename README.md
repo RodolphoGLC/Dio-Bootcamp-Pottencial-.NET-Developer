@@ -4,7 +4,10 @@ Projetos criados durante o bootcamp da Pottencial
 ## Contém 
  - O curso, exemplos básicos apresentados
  - O exemploFundamentos, onde se encontram exemplos mais complexos
- - Estacionamento e Hospedagem: Desafios de Projeto
+ - ExemploPOO,onde se encontra exemplos básicos de POO
+ - ModuloAPI, está os códigos desenvolvidos em uma API 
+ - Estacionamento, Hospedagem, Smartphone e GerenciadorTarefas: Desafios de Projeto
+ - PagamentoAPI: Projeto Final
 
 ## Links Úteis 
  - [Sintaxe Básica Markdown](https://www.markdownguide.org/)
